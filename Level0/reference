@@ -1,0 +1,26 @@
+Print = inputs the command
+''" = the piece of str
+() = defines value
+/# = ignore
+'''''' = ignore
+
+## Variables
+
+### Rule 1
+Start with a letter or underscore
+### Rule 2
+Cannot start with a number
+### Rule 3
+Alphanumerics and underscores
+### Rule 4
+Case sensitive
+## Data types
+Text type = str
+Number types = int, float ,complex
+Sequence types  = list, tuple, range,
+
+### Examples
+if x = 5 x = integer
+if z = 5.0 z = float
+Alex = string
+[red, orange, black] = list
